@@ -23,64 +23,64 @@
     },
     "installed_plugins": {
         "cordova-plugin-battery-status": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-camera": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-file": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-media-capture": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-device-motion": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-device-orientation": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-file-transfer": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-globalization": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-media": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-vibration": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.phonegap.embodiedtestmw"
+            "PACKAGE_NAME": "com.phonegap.embodiedtestmwbeta"
         }
     },
     "dependent_plugins": {},
